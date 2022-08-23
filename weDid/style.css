@@ -1,0 +1,28 @@
+body {
+    align-items: center;
+    background-color: rgb(110, 71, 56);
+    font-size: 20px;
+    text-align: center;
+}
+
+.white {
+    color: white;
+}
+
+.input-att {
+    width: max-content;
+    font-size: 26px;
+    color: rgb(83, 50, 36);
+    border-radius: 10px;
+    border: 4px groove rgb(71, 45, 35);
+}
+
+
+.btn-att {
+    width: max-content;
+    font-size: 21px;
+    color: white;
+    background-color: rgb(68, 51, 38);
+    border-radius: 10px;
+    border-color: bisque;
+}
